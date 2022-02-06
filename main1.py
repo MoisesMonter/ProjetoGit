@@ -1,6 +1,5 @@
 from readme import world
-
-v= int(input("Digite 1 para True ou qualquer outra coisa para False:\n"))
+v= int(input("Digite - 1 - para True ou qualquer outra coisa para False:\n"))
 if v == 1:
     v1 = True
 else:
